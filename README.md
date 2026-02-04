@@ -1,5 +1,10 @@
 # JupyterLite Demo
 GLA mod
+```
+jupyter lite build --contents content
+jupyter lite serve
+```
+
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
 
